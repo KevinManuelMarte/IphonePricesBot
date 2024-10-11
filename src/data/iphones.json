@@ -1,0 +1,392 @@
+{
+    "ObligatoryKeywords": ["renewed", "recondicionado", "reacondicionado"],
+    "groups": [
+        {
+            "name": "Iphone X",
+            "cellName": "Iphone X",
+            "spaceAndCorrespondingCells": ["64 GB - C5 - D5", "256 GB - C7 - D7"],
+            "scrapperLinks": {
+                
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+X++reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+x+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-x?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-x/d4a657fa-dd57-4ddb-b93e-112f447103c1",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20x&or-relevance&tm-161&fm-1116&fg_58-4323",
+                    "CertiDeal": "https://www.certideal.es/iphone-x-reacondicionado-182#/p%C3%A1gina-2#product_list",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-x",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-x"
+                }
+            
+        },
+        {
+            "name": "Iphone XR",
+            "cellName": "Iphone XR",
+            "spaceAndCorrespondingCells": ["64 GB - I5 - J5", "128 GB - I6 - J6", "256 GB - I7 - J7"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+X++reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+xr+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-xr?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-xr/3046112e-d904-490b-a6a3-d27ee75ff477",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20x&or-relevance&tm-161&fm-1116&fg_58-4922",
+                    "CertiDeal": "https://www.certideal.es/iphone-xr-reacondicionado-205",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-xr",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-xr"
+                }
+           
+            
+        },
+        {
+            "name": "Iphone XS",
+            "cellName": "Iphone XS",
+            "spaceAndCorrespondingCells": ["64 GB - E5 - F5", "256 GB - E7 - F7", "512 GB - E8 - F8"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+Xs+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=13TJ321PG7VI2&sprefix=iphone+xs+reacondicionado%2Caps%2C298&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-xs?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-xs/9e86400f-f7ca-4c97-87a8-9ba42990b245",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20%20xs&or-relevance&fm-1116&fg_58-4915",
+                    "CertiDeal": "https://www.certideal.es/iphone-xs-reconditionne-207",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-xs",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-xs"
+                }
+           
+        },
+        {
+            "name": "Iphone XS Max",
+            "cellName": "Iphone XS Max",
+            "spaceAndCorrespondingCells": ["64 GB - G5 - H5", "256 GB - G7 - H7", "512 GB - G8 - H8"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+XS+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3D0SGRQAM7QF4&sprefix=iphone+xs+max+reacondicionado%2Caps%2C237&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-xs-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-xs-max/13081b1f-d8bf-484b-a589-c61774b6fe69",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20%20xs&or-relevance&fm-1116&fg_58-4916",
+                    "CertiDeal": "https://www.certideal.es/iphone-xs-max-reconditionne-208",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-xs-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-xs-max"
+                }
+           
+        },
+        {
+            "name": "Iphone 11",
+            "cellName": "Iphone 11",
+            "spaceAndCorrespondingCells": ["64 GB - K5 - L5", "128 GB - K6 - L6", "256 GB - K7 - L7"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+11+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2LBIMFCR59I8Z&sprefix=iphone+11+reacondicionado%2Caps%2C267&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-11?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-11/43e3b334-69c8-4303-9abc-6a6e0805479d",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20%2011&or-relevance&fm-1116&fg_58-6184&tm-161",
+                    "CertiDeal": "https://www.certideal.es/iphone-11-213",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-11",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-11"
+                }
+           
+        },
+        {
+            "name": "Iphone 11 Pro",
+            "cellName": "Iphone 11 Pro",
+            "spaceAndCorrespondingCells": ["64 GB - M5 - N5", "256 GB - M7 - N7", "512 GB - M8 - N8"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+11+PRO+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GSX6RB47VSTW&sprefix=iphone+11+pro+reacondicionado%2Caps%2C286&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-11-pro?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-11-pro/4739555a-2f2d-4f8e-897e-9a4e3086fd32",
+                    "PcComponentes": "https://www.pccomponentes.com/search?query=iphone%20%2011%20pro&or-relevance&fm-1116",
+                    "CertiDeal": "https://www.certideal.es/iphone-11-pro-245",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-11-pro",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-11-pro"
+                }
+           
+        },
+        {
+            "name": "Iphone 11 Pro Max",
+            "cellName": "Iphone 11 Pro Max",
+            "spaceAndCorrespondingCells": ["64 GB - O5 - P5", "256 GB - O7 - P7", "512 GB - O8 - P8"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+11+PRO+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LCZ8O0RO6JFB&sprefix=iphone+11+pro+max+reacondicionado%2Caps%2C290&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-11-pro-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-11-pro-max/78b2bb8f-74c1-467d-ab9f-e0413323d2af",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-11-pro-max/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-11-pro-max-248",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-11-pro-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-11-pro-max"
+                }
+           
+        },
+        {
+            "name": "Iphone SE",
+            "cellName": "Iphone SE 2020",
+            "spaceAndCorrespondingCells": ["64 GB - Q5 - R5", "128 GB - Q6 - R6", "256 GB - Q7 - R7"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+SE+2020+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=QL5JOT4OWBJY&sprefix=iphone+se+2020+reacondicionado%2Caps%2C297&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-se?availability=all",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-se-2020/a0b7dbb8-49e4-4b33-b11a-048b1d67f526",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-11-pro-max/iphone-se-2020/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-se-2-2020-249",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-se-2020",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-se-2020"
+                }
+           
+        },
+        {
+            "name": "Iphone 12",
+            "cellName": "Iphone 12",
+            "spaceAndCorrespondingCells": ["64 GB - C15 - D15", "128 GB - C16 - D16", "256 GB - C17 - D17"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=iphone+12+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2S2863LMFYEF4&sprefix=iphone+12+reacondicionado%2Caps%2C308&ref=nb_sb_noss_1",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-12?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-se-series/fe247f0e-32a5-427b-ae6a-3264be7da36b",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-11-pro-max/iphone-12/iphone-se-2020/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-12-reacondicionado-261",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-12",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-12"
+                }
+           
+        },
+        {
+            "name": "Iphone 12 Mini",
+            "cellName": "Iphone 12 Mini",
+            "spaceAndCorrespondingCells": ["64 GB - E15 - F15", "128 GB - E16 - F16", "256 GB - E17 - F17"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=iphone+12+Mini+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3TPICR0NBR6NB&sprefix=iphone+12+mini+reacondicionado%2Caps%2C247&ref=nb_sb_noss_1",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-12-mini?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-12-mini/269cbcc9-09f0-48bc-9513-b94eeeb136c6",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-12-mini/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-12-mini-264",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-12-mini",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-12-mini"
+                }
+           
+        },
+        {
+            "name": "Iphone 12 Pro",
+            "cellName": "Iphone 12 Pro",
+            "spaceAndCorrespondingCells": ["128 GB - G16 - H16", "256 GB - G17 - H17", "512 GB - G18 - H18"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+12+Pro+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+12+Pro+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-12-pro?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-12-pro/8780caee-a9dd-439b-ba63-29af4b11a29b",
+                     "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-12-pro/reacondicionado?refurbished=like-new,seminew,functional",
+                     "CertiDeal": "https://www.certideal.es/iphone-12-pro-266",
+                     "RefurbishedNL": "https://www.refurbished.nl/iphone-12-pro",
+                     "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-12-pro"
+                }
+           
+        },
+        {
+            "name": "Iphone 12 Pro Max",
+            "cellName": "Iphone 12 Pro Max",
+            "spaceAndCorrespondingCells": ["128 GB - I16 - J16", "256 GB - I17 - J17", "512 GB - I18 - J18"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+12+Pro+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+12+pro+max+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-12-pro-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-12-pro-max/b5aca6de-365b-44f6-b1ef-f605134536ac",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-12-pro/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-12-pro-max-276",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-12-pro-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-12-pro-max"
+                }
+           
+        },
+        {
+            "name": "Iphone 13",
+            "cellName": "Iphone 13",
+            "spaceAndCorrespondingCells": ["128 GB - K16 - L16", "256 GB - K17 - L17", "512 GB - K18 - L18"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+13+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+13+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-13?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-13/ff9c9259-8c56-4bc7-b932-42482f3f7382",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-13/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-13-288",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-13",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-13"
+                }
+           
+        },
+        {
+            "name": "Iphone 13 Mini",
+            "cellName": "Iphone 13 Mini",
+            "spaceAndCorrespondingCells": ["128 GB - M16 - N16", "256 GB - M17 - N17", "512 GB - M18 - N18"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+13+Mini+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+13+mini+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-13-mini?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-13-mini/7be9cf3b-3731-4fbe-a93e-7cae49a56505",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-13-mini/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-13-mini-289",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-13-mini",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-13-mini"
+                }
+           
+        },
+        {
+            "name": "Iphone 13 Pro",
+            "cellName": "Iphone 13 Pro",
+            "spaceAndCorrespondingCells": ["128 GB - O16 - P16", "256 GB - O17 - P17", "512 GB - O18 - P18", "1000GB - O19 - P19"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+13+Pro+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+13+pro+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-13-pro?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-13-pro/01adbd73-12e5-4950-a33e-51a8d6c3d935",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-13-pro/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-13-pro-301",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-13-pro",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-13-pro"
+                }
+           
+        },
+        {
+            "name": "Iphone 13 Pro Max",
+            "cellName": "Iphone 13 Pro Max",
+            "spaceAndCorrespondingCells": ["128 GB - Q16 - R16", "256 GB - Q17 - R17", "512 GB - Q18 - R18", "1000GB - Q19 - R19"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+13+Pro+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+13+pro+max+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-13-pro-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-13-pro/01adbd73-12e5-4950-a33e-51a8d6c3d935",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-13-pro-max/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-13-pro-max-302",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-13-pro-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-13-pro-max"
+                }
+           
+        },
+        {
+            "name": "Iphone 14",
+            "cellName": "Iphone 14",
+            "spaceAndCorrespondingCells": ["128 GB - C26 -  D26", "256 GB - C27 - D27", "512 GB - C28 - D28"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+14+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+14+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-14?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-14/6a611bfc-7891-4074-b262-e58edfd8a0e4",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-14/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-14-312",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-14",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-14"
+                }
+           
+        },
+        {
+            "name": "Iphone 14 Plus",
+            "cellName": "Iphone 14 Plus",
+            "spaceAndCorrespondingCells": ["128 GB - E26 - F26", "256 GB - E27 - F27", "512 GB - E28 - F28", "1000GB - E29 - F29"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+14+Plus+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+14+Plus+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-14-plus?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-14-plus/94fb96a0-cd42-4469-8188-637d12f39a39",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-14-plus/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-14-plus-386",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-14-plus",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-14-plus"
+                }
+           
+        },
+        {
+            "name": "Iphone 14 Pro",
+            "cellName": "Iphone 14 Pro",
+            "spaceAndCorrespondingCells": ["128 GB - G26 - H26", "256 GB - G27 - H27", "512 GB - G28 - H28", "1000GB - G29 - H29"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+14+Pro+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+14+pro+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-14-pro?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-14-pro/9c661711-8fbe-4b55-b8aa-a0bb42ccfeed",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-14-pro/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-14-pro-410",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-14-pro",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-14-pro"
+                }
+           
+        },
+        {
+            "name": "Iphone 14 Pro Max",
+            "cellName": "Iphone 14 Pro Max",
+            "spaceAndCorrespondingCells": ["128 GB - I26 - J26", "256 GB - I27 - J27", "512 GB - I28 - J28", "1000GB - I29 - J29"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+14+Pro+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+14+pro+max+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-14-pro-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.com/en-us/l/iphone-14-pro-max/f58d2a25-5974-4b83-ba29-e002f892cdf1",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-14-pro-max/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-14-pro-max-326",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-14-pro-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-14-pro-max"
+                }
+           
+        },
+        {
+            "name": "Iphone 15",
+            "cellName": "Iphone 15",
+            "spaceAndCorrespondingCells": ["128 GB - K26 -  L26", "256 GB - K27 - L27", "512 GB - K28 - L28"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+15+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+15+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-15?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.es/es-es/l/iphone-15/1f9abfba-28bb-4eb5-832b-201b4fba0652",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-15/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-15-372",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-15",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-15"
+                }
+           
+        },
+        {
+            "name": "Iphone 15 Plus",
+            "cellName": "Iphone 15 Plus",
+            "spaceAndCorrespondingCells": ["128 GB - M26 - N26", "256 GB - M27 - N27", "512 GB - M28 - N28"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+15+Plus+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+15+plus+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-15-plus?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.es/es-es/l/iphone-15-plus/796d3b30-cbfc-4309-aede-7df95fa9a8bd",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-15-plus/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-15-plus-415",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-15-plus",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-15-plus"
+                }
+           
+        },
+        {
+            "name": "Iphone 15 Pro",
+            "cellName": "Iphone 15 Pro",
+            "spaceAndCorrespondingCells": ["128 GB - O26 - P26", "256 GB - O27 - P27", "512 GB - O28 - P28", "1000GB - O29 - P29"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+15+Pro+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+15+pro+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-15-pro?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.es/es-es/l/iphone-15-pro/7bbb61fd-f22c-4cdb-b44b-cc6dc4d9da0c",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-15-pro/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-15-pro-416",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-15-pro",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-15-pro"
+
+                }
+           
+        },
+        {
+            "name": "Iphone 15 Pro Max",
+            "cellName": "Iphone 15 Pro Max",
+            "spaceAndCorrespondingCells": ["256 GB - Q27 - R27", "512 GB - Q28 - R28", "1000GB - Q29 - R29"],
+            "scrapperLinks": 
+                {
+                    "Amazon": "https://www.amazon.es/s?k=Iphone+15+Pro+Max+reacondicionado&rh=p_n_condition-type%3A15144011031&dc&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2VUB3LJKD76XZ&sprefix=iphone+15+pro+max+reacondicionado%2Caps%2C238&ref=nb_sb_noss",
+                    "RefurbMe": "https://www.refurb.me/refurbished/iphone/iphone-15-pro-max?availability=sold-out",
+                    "BackMarket": "https://www.backmarket.es/es-es/l/iphone-15-pro-max/3ac2b623-54e0-4e4e-af4a-202870bfd2f7",
+                    "PcComponentes": "https://www.pccomponentes.com/smartphone-moviles/apple/iphone-15-pro-max/reacondicionado?refurbished=like-new,seminew,functional",
+                    "CertiDeal": "https://www.certideal.es/iphone-15-pro-max-409",
+                    "RefurbishedNL": "https://www.refurbished.nl/iphone-15-pro-max",
+                    "rebuyes": "https://www.rebuy.es/comprar/apple-iphone-iphone-15-pro-max"
+                }
+           
+        }
+    ]   
+} 
+
